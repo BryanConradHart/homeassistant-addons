@@ -22,6 +22,3 @@ schema:
 map:
   - type: share
     read_only: False
-environment:
-  - SB_FOLDER: "[SB_FOLDER]"
-  - SB_USER: "[SB_USER]"
